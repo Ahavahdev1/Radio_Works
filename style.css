@@ -1,0 +1,9 @@
+/* Estilos para a página web */
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#player {
+    margin-top: 20px;
+}
